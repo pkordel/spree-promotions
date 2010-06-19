@@ -30,14 +30,14 @@ en-US:
   new_promotion: New promotion
   new_product_promotion: New product promotion
   new_user_promotion: New user promotion
-  user promotions: User promotions
-  product promotions: Product promotions
+  user_promotions: User promotions
+  product_promotions: Product promotions
   summary: Promotions summary
   count: Count
   everywhere: Everywhere
   calculators:
     free_shipping: Free Shipping
-    cheapest_free: Chepest product for free
+    cheapest_free: Cheapest product for free
     n_and_more_products: Discount when buying N and more products
     no_charge: Offset specified charge type
     nth_free: Nth product free(x+1 free)

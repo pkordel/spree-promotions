@@ -1,8 +1,10 @@
 = Promotions
 
+Forked by Peter Kordel
+
 Promotions extension created by Marcin Raczkowski
 
-It provides diffirent kinds of promotions calculators based on product groups functionality.
+It provides different kinds of promotions calculators based on product groups functionality.
 
 = License
 
